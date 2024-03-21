@@ -1,7 +1,8 @@
 # DCPRN: Distillation-Constrained Prototype Representation Network for Hyperspectral Image Incremental Classification
 
-You can find our original paper at the link below.
+You can find our original paper at this link.
 [DCPRN: Distillation-Constrained Prototype Representation Network for Hyperspectral Image Incremental Classification](https://ieeexplore.ieee.org/document/10416249). 
+
 
 <p align='center'>
   <img src='figure/dcprn.png' width="800px">
