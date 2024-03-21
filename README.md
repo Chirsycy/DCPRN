@@ -39,4 +39,5 @@ $ python Test.py
 
 You can view the saved model in the model_saved_check folder. View the test results in result.txt. y_pre_houston_9.mat file was drawn to realize the visualization of hyperspectral image prediction results.
 
+You can find our original paper at the link below.
 [DCPRN: Distillation-Constrained Prototype Representation Network for Hyperspectral Image Incremental Classification](https://ieeexplore.ieee.org/document/10416249). 
